@@ -53,10 +53,10 @@
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="true"
-     inkscape:window-width="1920"
-     inkscape:window-height="1018"
-     inkscape:window-x="-8"
-     inkscape:window-y="-8"
+     inkscape:window-width="1366"
+     inkscape:window-height="721"
+     inkscape:window-x="0"
+     inkscape:window-y="26"
      inkscape:window-maximized="1">
     <inkscape:grid
        type="xygrid"
@@ -103,12 +103,12 @@
        id="path7633-6"
        inkscape:connector-curvature="0" />
     <rect
-       style="fill:none;stroke:#000000;stroke-width:0.30695397;stroke-opacity:1"
+       style="fill:none;stroke:#000000;stroke-width:0.32038999;stroke-opacity:1"
        id="rect5648"
-       width="101.19995"
-       height="60.331078"
-       x="40.77021"
-       y="112.81733" />
+       width="110.27789"
+       height="60.317642"
+       x="40.776928"
+       y="112.82405" />
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
@@ -147,7 +147,7 @@
          id="tspan5670-3"
          x="42.561321"
          y="382.25195"
-         style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:17.5px;font-family:'Times New Roman';-inkscape-font-specification:'Times New Roman,  Italic';text-align:start;text-anchor:start">dueDate' = today + dur</tspan></text>
+         style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:17.5px;font-family:'Times New Roman';-inkscape-font-specification:'Times New Roman,  Italic';text-align:start;text-anchor:start">expiryDate' = today + dur</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
@@ -183,7 +183,7 @@
          x="56.703445"
          y="159.6834"
          style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:17.5px;font-family:'Times New Roman';-inkscape-font-specification:'Times New Roman,  Italic';text-align:start;text-anchor:start"
-         dy="0">●dueDate</tspan></text>
+         dy="0">●expiryDate</tspan></text>
     <rect
        style="fill:none;stroke:#000000;stroke-width:0.31892523;stroke-opacity:1"
        id="rect5648-5"
@@ -316,12 +316,12 @@
          y="467.07907"
          style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:17.5px;font-family:'Times New Roman';-inkscape-font-specification:'Times New Roman,  Italic'">Reservation</tspan></text>
     <rect
-       style="fill:none;stroke:#000000;stroke-width:0.30695397;stroke-opacity:1"
+       style="fill:none;stroke:#000000;stroke-width:0.33885252;stroke-opacity:1"
        id="rect5648-1"
-       width="101.19995"
-       height="60.331078"
-       x="282.30829"
-       y="466.33511" />
+       width="123.39141"
+       height="60.299179"
+       x="282.32425"
+       y="466.35107" />
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
@@ -346,7 +346,7 @@
          x="298.24152"
          y="502.47354"
          style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:17.5px;font-family:'Times New Roman';-inkscape-font-specification:'Times New Roman,  Italic';text-align:start;text-anchor:start"
-         dy="0">●dueDate'</tspan></text>
+         dy="0">●expiryDate'</tspan></text>
     <path
        style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.6622408px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#Arrow1Lend-3)"
        d="m 136.2463,492.41359 c 0,0 81.4251,-45.24316 162.85022,0"
@@ -363,6 +363,6 @@
          xlink:href="#path5775-1"
          id="textPath7888-8"><tspan
    style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15px;font-family:'Times New Roman';-inkscape-font-specification:'Times New Roman, Italic'"
-   id="tspan7886-2">                       DueDate</tspan></textPath></text>
+   id="tspan7886-2">                       ExpiryDate</tspan></textPath></text>
   </g>
 </svg>

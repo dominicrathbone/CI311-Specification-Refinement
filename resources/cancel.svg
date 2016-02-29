@@ -75,10 +75,10 @@
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="true"
-     inkscape:window-width="1920"
-     inkscape:window-height="1018"
-     inkscape:window-x="-8"
-     inkscape:window-y="-8"
+     inkscape:window-width="1366"
+     inkscape:window-height="721"
+     inkscape:window-x="0"
+     inkscape:window-y="26"
      inkscape:window-maximized="1"
      showguides="false">
     <inkscape:grid
@@ -93,7 +93,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -117,22 +117,22 @@
        xml:space="preserve"
        style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:25px;line-height:125%;font-family:'Times New Roman';-inkscape-font-specification:'Times New Roman, Italic';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        x="69.618332"
-       y="242.07599"
+       y="250.07599"
        id="text3363-3"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
          id="tspan3365-7"
          x="69.618332"
-         y="242.07599"
+         y="250.07599"
          style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:25px;font-family:'Times New Roman';-inkscape-font-specification:'Times New Roman, Italic'">LS!Cancel(r[1],r[2] → p)</tspan></text>
     <path
-       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.72579479px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="m 470.12992,52.217786 -410.253148,0 0,205.445074 410.253148,0"
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.64103669px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 470.15992,52.164189 -410.313099,0 0,160.239771 410.313099,0"
        id="path7143"
        inkscape:connector-curvature="0" />
     <path
-       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1.4121033px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="m 469.85406,264.65587 -409.70846,0 0,159.63632 409.70846,0 0,0"
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1.58661485px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 469.79221,222.58442 -409.584973,0 0,201.59172 409.584973,0 0,0"
        id="path7633"
        inkscape:connector-curvature="0" />
     <text

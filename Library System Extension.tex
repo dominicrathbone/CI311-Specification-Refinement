@@ -1,6 +1,6 @@
 \documentclass[]{report}
 \usepackage{amsmath, amssymb, graphicx}
-\usepackage[margin=0.5in]{geometry}
+\usepackage[margin=0.75in]{geometry}
 \graphicspath{{resources/}}
 
 
@@ -17,7 +17,7 @@ The goal of this coursework is to extend and refine the functionality of the exi
 
 \section{Class Invariant}
 \subsection{Informal statement}
-In order to introduce the concept of time into the library system, a type named "DATE" is created and added to the class invariant. At this level, it is used to define a variable "today" which is the basis of the system's notion of time. The class invariant has also been extended to add reservations and loans by representing each as a subset of the set resulting from the cartesian product of the sets title and member. This way, each member of the loan set can be mapped to a "DATE" representing the due date and each member of the reservation subset can be mapped to another "DATE" representing the expiry date . Doing it this way also gives the system more flexibility as this set is not limited to reservations and loans, thus allowing for further extension.
+In order to introduce the concept of time into the library system, a type named "DATE" is created and added to the class invariant. At this level, it is used to define a variable "today" which is the basis of the system's notion of time. The class invariant has also been extended to add reservations and loans by representing each as a subset of the set resulting from the cartesian product of the sets title and member. This way, each member of the loan set can be mapped to a "DATE" representing the due date and each member of the reservation subset can be mapped to another "DATE" representing the expiry date . Doing it this way also gives the system more flexibility as this set is not limited to reservations and loans, thus allowing for further extension. The invariant also contains a new addition to a member, "FinesOwned" which indicates how much money a member owes from overdue loans.
 \subsection{Formal statement}
 \begin{center}
 \includegraphics{class_invariant.pdf}
@@ -33,7 +33,7 @@ Using the "today" variable set up in the class invariant, the next day can be de
 \newpage
 \section{Reserve}
 \subsection{Informal statement}
-The reserve event has to be updated to add a expiry date when a book is reserved. To do this, it has been updated to take new parameters, "dur" (reservation duration) and "today". These are used to calculate the expiry date by adding dur to today's date. A new reservation is then made by pairing title and member then adding it to the reservation set. The expiry date is then linked to this pair by the "ExpiryDate" function.
+The reserve event has to be updated to add a expiry date when a book is reserved. To do this, it has been updated to take new parameters, "dur" (reservation duration) and "today". A new reservation is made by pairing title and member which is then added to the reservation set. The expiry date is then calculated and linked to this reservation by the "ExpiryDate" function.
 \subsection{Formal statement}
 \begin{center}
 	\includegraphics[scale=0.75]{reserve.pdf}
@@ -41,7 +41,7 @@ The reserve event has to be updated to add a expiry date when a book is reserved
 \newpage
 \section{LoanCopy}
 \subsection{Informal statement}
-Similar to reserve, the loanCopy event has to be updated to add due dates to new loans taken out. To do this, it is extended to include to new parameters, dur(loan period) and today. From this, the due date is calculated by adding the duration to today. After this, the title and member passed through in the parameter is paired up and linked to the due date by the "DueDate" function.
+Similar to reserve, the loanCopy event has to be updated to add due dates to new loans taken out. To do this, it is extended to include to new parameters, dur(loan period) and today. The title and member passed through in the parameter is paired up to form a new loan. If the loan is then found to already exist as a reservation, the cancel event is called and the reservation is cancelled. After this, the due date is calculated by adding the duration to today and is linked to the loan by the "DueDate" function.
 \subsection{Formal statement}
 \begin{center}
 	\includegraphics[scale=0.75]{loan_copy.pdf}
@@ -49,30 +49,58 @@ Similar to reserve, the loanCopy event has to be updated to add due dates to new
 \newpage
 \section{Cancel}
 \subsection{Informal statement}
+The cancel event is relatively simple, it takes a parameter, reservation "r". From which the title and member taken and passed through to the simple library system's cancel event in the postcondition, after this,the reservation is then removed from the set.
 \subsection{Formal statement}
 \begin{center}
-	\includegraphics[scale=0.75]{cancel.pdf}
+	\includegraphics{cancel.pdf}
 \end{center}
 \newpage
 \section{Return}
 \subsection{Informal statement}
+Again, similar to the cancel event, the new return event takes a loan as a parameter and uses the title and member with the simple library system's return event. The loan is then removed from the loan set.
 \subsection{Formal statement}
 \begin{center}
-	\includegraphics[scale=0.75]{return.pdf}
+	\includegraphics{return.pdf}
 \end{center}
 \newpage
 \section{ShowDueDate}
 \subsection{Informal statement}
+This event just takes in a loan and and outputs the due date it has been associated with by the DueDate function.
 \subsection{Formal statement}
 \begin{center}
-	\includegraphics[scale=0.75]{show_due_date.pdf}
+	\includegraphics{show_due_date.pdf}
 \end{center}
 \newpage
 \section{ShowExpiryDate}
 \subsection{Informal statement}
+This event takes in a reservation and and outputs the expiry date it has been associated with by the ExpiryDate function.
 \subsection{Formal statement}
 \begin{center}
-	\includegraphics[scale=0.75]{show_expiry_date.pdf}
+	\includegraphics{show_expiry_date.pdf}
+\end{center}
+\newpage
+\section{Fine}
+\subsection{Informal statement}
+This takes in a member and an amount in the form of a decimal number. It then takes this decimal number and adds it to the current fine amount owed by the member.
+\subsection{Formal statement}
+\begin{center}
+	\includegraphics{add_fine.pdf}
+\end{center}
+\newpage
+\section{Pay Fine}
+\subsection{Informal statement}
+This allows the member to pay the fine they current owed. It takes in a member and amount. This amount has to be smaller than the or equal to the amount they currently owe, if it isn't the amount is changed to be equal to the amount they owe. It is then subtracted from the current amount they owe.
+\subsection{Formal statement}
+\begin{center}
+	\includegraphics{pay_fine.pdf}
+\end{center}
+\newpage
+\section{Show Fines}
+\subsection{Informal statement}
+This event takes in a member and and outputs the amount of money they owe via the FinesOwned function.
+\subsection{Formal statement}
+\begin{center}
+	\includegraphics{show_fines.pdf}
 \end{center}
 \newpage
 

@@ -1,15 +1,15 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015/W32TeX) (preloaded format=pdflatex 2015.10.27)  25 FEB 2016 20:07
+This is pdfTeX, Version 3.14159265-2.6-1.40.15 (TeX Live 2014) (preloaded format=pdflatex 2015.10.27)  29 FEB 2016 17:59
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
-**"./Library System Extension.tex"
+**"Library System Extension.tex"
 (./Library System Extension.tex
-LaTeX2e <2015/10/01> patch level 1
-Babel <3.9m> and hyphenation patterns for 79 languages loaded.
-(c:/texlive/2015/texmf-dist/tex/latex/base/report.cls
-Document Class: report 2014/09/29 v1.4h Standard LaTeX document class
-(c:/texlive/2015/texmf-dist/tex/latex/base/size10.clo
-File: size10.clo 2014/09/29 v1.4h Standard LaTeX file (size option)
+LaTeX2e <2011/06/27>
+Babel <3.9k> and hyphenation patterns for 2 languages loaded.
+(/usr/share/texlive/texmf-dist/tex/latex/base/report.cls
+Document Class: report 2007/10/19 v1.4h Standard LaTeX document class
+(/usr/share/texlive/texmf-dist/tex/latex/base/size10.clo
+File: size10.clo 2007/10/19 v1.4h Standard LaTeX file (size option)
 )
 \c@part=\count79
 \c@chapter=\count80
@@ -24,24 +24,24 @@ File: size10.clo 2014/09/29 v1.4h Standard LaTeX file (size option)
 \belowcaptionskip=\skip42
 \bibindent=\dimen102
 )
-(c:/texlive/2015/texmf-dist/tex/latex/amsmath/amsmath.sty
+(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsmath.sty
 Package: amsmath 2013/01/14 v2.14 AMS math features
 \@mathmargin=\skip43
 
 For additional information on amsmath, use the `?' option.
-(c:/texlive/2015/texmf-dist/tex/latex/amsmath/amstext.sty
+(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amstext.sty
 Package: amstext 2000/06/29 v2.01
 
-(c:/texlive/2015/texmf-dist/tex/latex/amsmath/amsgen.sty
+(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsgen.sty
 File: amsgen.sty 1999/11/30 v2.0
 \@emptytoks=\toks14
 \ex@=\dimen103
 ))
-(c:/texlive/2015/texmf-dist/tex/latex/amsmath/amsbsy.sty
+(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsbsy.sty
 Package: amsbsy 1999/11/29 v1.2d
 \pmbraise@=\dimen104
 )
-(c:/texlive/2015/texmf-dist/tex/latex/amsmath/amsopn.sty
+(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsopn.sty
 Package: amsopn 1999/12/14 v2.01 operator names
 )
 \inf@bad=\count88
@@ -82,41 +82,41 @@ LaTeX Font Info:    Redeclaring font encoding OMS on input line 567.
 LaTeX Info: Redefining \[ on input line 2665.
 LaTeX Info: Redefining \] on input line 2666.
 )
-(c:/texlive/2015/texmf-dist/tex/latex/amsfonts/amssymb.sty
+(/usr/share/texlive/texmf-dist/tex/latex/amsfonts/amssymb.sty
 Package: amssymb 2013/01/14 v3.01 AMS font symbols
 
-(c:/texlive/2015/texmf-dist/tex/latex/amsfonts/amsfonts.sty
+(/usr/share/texlive/texmf-dist/tex/latex/amsfonts/amsfonts.sty
 Package: amsfonts 2013/01/14 v3.01 Basic AMSFonts support
 \symAMSa=\mathgroup4
 \symAMSb=\mathgroup5
 LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
 (Font)                  U/euf/m/n --> U/euf/b/n on input line 106.
 ))
-(c:/texlive/2015/texmf-dist/tex/latex/graphics/graphicx.sty
-Package: graphicx 2014/10/28 v1.0g Enhanced LaTeX Graphics (DPC,SPQR)
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/graphicx.sty
+Package: graphicx 1999/02/16 v1.0f Enhanced LaTeX Graphics (DPC,SPQR)
 
-(c:/texlive/2015/texmf-dist/tex/latex/graphics/keyval.sty
-Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/keyval.sty
+Package: keyval 1999/03/16 v1.13 key=value parser (DPC)
 \KV@toks@=\toks19
 )
-(c:/texlive/2015/texmf-dist/tex/latex/graphics/graphics.sty
-Package: graphics 2014/10/28 v1.0p Standard LaTeX Graphics (DPC,SPQR)
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/graphics.sty
+Package: graphics 2009/02/05 v1.0o Standard LaTeX Graphics (DPC,SPQR)
 
-(c:/texlive/2015/texmf-dist/tex/latex/graphics/trig.sty
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/trig.sty
 Package: trig 1999/03/16 v1.09 sin cos tan (DPC)
 )
-(c:/texlive/2015/texmf-dist/tex/latex/latexconfig/graphics.cfg
+(/usr/share/texlive/texmf-dist/tex/latex/latexconfig/graphics.cfg
 File: graphics.cfg 2010/04/23 v1.9 graphics configuration of TeX Live
 )
-Package graphics Info: Driver file: pdftex.def on input line 94.
+Package graphics Info: Driver file: pdftex.def on input line 91.
 
-(c:/texlive/2015/texmf-dist/tex/latex/pdftex-def/pdftex.def
+(/usr/share/texlive/texmf-dist/tex/latex/pdftex-def/pdftex.def
 File: pdftex.def 2011/05/27 v0.06d Graphics/color for pdfTeX
 
-(c:/texlive/2015/texmf-dist/tex/generic/oberdiek/infwarerr.sty
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/infwarerr.sty
 Package: infwarerr 2010/04/08 v1.3 Providing info/warning/error messages (HO)
 )
-(c:/texlive/2015/texmf-dist/tex/generic/oberdiek/ltxcmds.sty
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/ltxcmds.sty
 Package: ltxcmds 2011/11/09 v1.22 LaTeX kernel commands for general use (HO)
 )
 \Gread@gobject=\count100
@@ -124,18 +124,18 @@ Package: ltxcmds 2011/11/09 v1.22 LaTeX kernel commands for general use (HO)
 \Gin@req@height=\dimen112
 \Gin@req@width=\dimen113
 )
-(c:/texlive/2015/texmf-dist/tex/latex/geometry/geometry.sty
+(/usr/share/texlive/texmf-dist/tex/latex/geometry/geometry.sty
 Package: geometry 2010/09/12 v5.6 Page Geometry
 
-(c:/texlive/2015/texmf-dist/tex/generic/oberdiek/ifpdf.sty
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/ifpdf.sty
 Package: ifpdf 2011/01/30 v2.3 Provides the ifpdf switch (HO)
 Package ifpdf Info: pdfTeX in PDF mode is detected.
 )
-(c:/texlive/2015/texmf-dist/tex/generic/oberdiek/ifvtex.sty
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/ifvtex.sty
 Package: ifvtex 2010/03/01 v1.5 Detect VTeX and its facilities (HO)
 Package ifvtex Info: VTeX not detected.
 )
-(c:/texlive/2015/texmf-dist/tex/generic/ifxetex/ifxetex.sty
+(/usr/share/texlive/texmf-dist/tex/generic/ifxetex/ifxetex.sty
 Package: ifxetex 2010/09/12 v0.6 Provides ifxetex conditional
 )
 \Gm@cnth=\count101
@@ -167,7 +167,7 @@ LaTeX Font Info:    ... okay on input line 12.
 LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 12.
 LaTeX Font Info:    ... okay on input line 12.
 
-(c:/texlive/2015/texmf-dist/tex/context/base/supp-pdf.mkii
+(/usr/share/texlive/texmf-dist/tex/context/base/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
 \scratchcounter=\count104
 \scratchdimen=\dimen122
@@ -180,11 +180,11 @@ LaTeX Font Info:    ... okay on input line 12.
 \MPnumerator=\count108
 \makeMPintoPDFobject=\count109
 \everyMPtoPDFconversion=\toks22
-) (c:/texlive/2015/texmf-dist/tex/generic/oberdiek/pdftexcmds.sty
+) (/usr/share/texlive/texmf-dist/tex/generic/oberdiek/pdftexcmds.sty
 Package: pdftexcmds 2011/11/29 v0.20 Utility functions of pdfTeX for LuaTeX (HO
 )
 
-(c:/texlive/2015/texmf-dist/tex/generic/oberdiek/ifluatex.sty
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/ifluatex.sty
 Package: ifluatex 2010/03/01 v1.3 Provides the ifluatex switch (HO)
 Package ifluatex Info: LuaTeX not detected.
 )
@@ -193,22 +193,22 @@ Package pdftexcmds Info: \pdf@primitive is available.
 Package pdftexcmds Info: \pdf@ifprimitive is available.
 Package pdftexcmds Info: \pdfdraftmode found.
 )
-(c:/texlive/2015/texmf-dist/tex/latex/oberdiek/epstopdf-base.sty
+(/usr/share/texlive/texmf-dist/tex/latex/oberdiek/epstopdf-base.sty
 Package: epstopdf-base 2010/02/09 v2.5 Base part for package epstopdf
 
-(c:/texlive/2015/texmf-dist/tex/latex/oberdiek/grfext.sty
+(/usr/share/texlive/texmf-dist/tex/latex/oberdiek/grfext.sty
 Package: grfext 2010/08/19 v1.1 Manage graphics extensions (HO)
 
-(c:/texlive/2015/texmf-dist/tex/generic/oberdiek/kvdefinekeys.sty
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/kvdefinekeys.sty
 Package: kvdefinekeys 2011/04/07 v1.3 Define keys (HO)
 ))
-(c:/texlive/2015/texmf-dist/tex/latex/oberdiek/kvoptions.sty
+(/usr/share/texlive/texmf-dist/tex/latex/oberdiek/kvoptions.sty
 Package: kvoptions 2011/06/30 v3.11 Key value format for package options (HO)
 
-(c:/texlive/2015/texmf-dist/tex/generic/oberdiek/kvsetkeys.sty
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/kvsetkeys.sty
 Package: kvsetkeys 2012/04/25 v1.16 Key value parser (HO)
 
-(c:/texlive/2015/texmf-dist/tex/generic/oberdiek/etexcmds.sty
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/etexcmds.sty
 Package: etexcmds 2011/02/16 v1.5 Avoid name clashes with e-TeX commands (HO)
 Package etexcmds Info: Could not find \expanded.
 (etexcmds)             That can mean that you are not using pdfTeX 1.50 or
@@ -220,7 +220,7 @@ Package grfext Info: Graphics extension search list:
 G,.JBIG2,.JB2,.eps]
 (grfext)             \AppendGraphicsExtensions on input line 452.
 
-(c:/texlive/2015/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
+(/usr/share/texlive/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
 File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
 e
 ))
@@ -232,15 +232,15 @@ e
 * layout: <same size as paper>
 * layoutoffset:(h,v)=(0.0pt,0.0pt)
 * modes: 
-* h-part:(L,W,R)=(36.135pt, 542.02501pt, 36.135pt)
-* v-part:(T,H,B)=(36.135pt, 722.7pt, 36.135pt)
+* h-part:(L,W,R)=(54.2025pt, 505.89pt, 54.2025pt)
+* v-part:(T,H,B)=(54.2025pt, 686.56499pt, 54.2025pt)
 * \paperwidth=614.295pt
 * \paperheight=794.96999pt
-* \textwidth=542.02501pt
-* \textheight=722.7pt
-* \oddsidemargin=-36.135pt
-* \evensidemargin=-36.135pt
-* \topmargin=-73.135pt
+* \textwidth=505.89pt
+* \textheight=686.56499pt
+* \oddsidemargin=-18.06749pt
+* \evensidemargin=-18.06749pt
+* \topmargin=-55.06749pt
 * \headheight=12.0pt
 * \headsep=25.0pt
 * \topskip=10.0pt
@@ -259,22 +259,22 @@ e
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
 LaTeX Font Info:    Try loading font information for U+msa on input line 13.
-(c:/texlive/2015/texmf-dist/tex/latex/amsfonts/umsa.fd
+(/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsa.fd
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
 LaTeX Font Info:    Try loading font information for U+msb on input line 13.
 
-(c:/texlive/2015/texmf-dist/tex/latex/amsfonts/umsb.fd
+(/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 ) [1
 
-{c:/texlive/2015/texmf-var/fonts/map/pdftex/updmap/pdftex.map}]
-<resources/class_invariant.pdf, id=8, 330.78865pt x 341.79572pt>
+{/usr/share/texlive/texmf-dist/fonts/map/pdftex/updmap/pdftex.map}]
+<resources/class_invariant.pdf, id=8, 330.35445pt x 389.82867pt>
 File: resources/class_invariant.pdf Graphic file (type pdf)
 
 <use resources/class_invariant.pdf>
 Package pdftex.def Info: resources/class_invariant.pdf used on input line 23.
-(pdftex.def)             Requested size: 330.78783pt x 341.79488pt.
+(pdftex.def)             Requested size: 330.35364pt x 389.82771pt.
  [1 <./resources/class_invariant.pdf>]
 <resources/move_to_next_day.pdf, id=48, 329.7589pt x 164.06868pt>
 File: resources/move_to_next_day.pdf Graphic file (type pdf)
@@ -283,65 +283,87 @@ File: resources/move_to_next_day.pdf Graphic file (type pdf)
 Package pdftex.def Info: resources/move_to_next_day.pdf used on input line 31.
 (pdftex.def)             Requested size: 329.75809pt x 164.06827pt.
  [2 <./resources/move_to_next_day.pdf>]
-<resources/reserve.pdf, id=73, 356.0662pt x 528.07634pt>
+<resources/reserve.pdf, id=73, 356.80331pt x 527.53526pt>
 File: resources/reserve.pdf Graphic file (type pdf)
 
 <use resources/reserve.pdf>
 Package pdftex.def Info: resources/reserve.pdf used on input line 39.
-(pdftex.def)             Requested size: 267.04898pt x 396.05627pt.
+(pdftex.def)             Requested size: 267.60182pt x 395.65047pt.
  [3 <./resources/reserve.pdf>]
-<resources/loan_copy.pdf, id=98, 379.85088pt x 648.78513pt>
+<resources/loan_copy.pdf, id=98, 380.58801pt x 648.77336pt>
 File: resources/loan_copy.pdf Graphic file (type pdf)
 
 <use resources/loan_copy.pdf>
 Package pdftex.def Info: resources/loan_copy.pdf used on input line 47.
-(pdftex.def)             Requested size: 284.88745pt x 486.58765pt.
+(pdftex.def)             Requested size: 285.44029pt x 486.57883pt.
  [4 <./resources/loan_copy.pdf>]
-<resources/cancel.pdf, id=123, 330.8398pt x 319.13069pt>
+<resources/cancel.pdf, id=123, 330.45222pt x 319.09775pt>
 File: resources/cancel.pdf Graphic file (type pdf)
 
 <use resources/cancel.pdf>
-Package pdftex.def Info: resources/cancel.pdf used on input line 54.
-(pdftex.def)             Requested size: 248.12924pt x 239.34741pt.
+Package pdftex.def Info: resources/cancel.pdf used on input line 55.
+(pdftex.def)             Requested size: 330.45142pt x 319.09697pt.
  [5 <./resources/cancel.pdf>]
-<resources/return.pdf, id=148, 330.84216pt x 310.97997pt>
+<resources/return.pdf, id=148, 330.45132pt x 310.94719pt>
 File: resources/return.pdf Graphic file (type pdf)
 
 <use resources/return.pdf>
-Package pdftex.def Info: resources/return.pdf used on input line 61.
-(pdftex.def)             Requested size: 248.131pt x 233.23439pt.
+Package pdftex.def Info: resources/return.pdf used on input line 63.
+(pdftex.def)             Requested size: 330.45052pt x 310.94641pt.
  [6 <./resources/return.pdf>]
 <resources/show_due_date.pdf, id=175, 329.73932pt x 150.26228pt>
 File: resources/show_due_date.pdf Graphic file (type pdf)
 
 <use resources/show_due_date.pdf>
-Package pdftex.def Info: resources/show_due_date.pdf used on input line 68.
-(pdftex.def)             Requested size: 247.30386pt x 112.69643pt.
+Package pdftex.def Info: resources/show_due_date.pdf used on input line 71.
+(pdftex.def)             Requested size: 329.7385pt x 150.2619pt.
  [7 <./resources/show_due_date.pdf>]
 <resources/show_expiry_date.pdf, id=200, 344.33743pt x 150.26228pt>
 File: resources/show_expiry_date.pdf Graphic file (type pdf)
 
 <use resources/show_expiry_date.pdf>
-Package pdftex.def Info: resources/show_expiry_date.pdf used on input line 75.
-(pdftex.def)             Requested size: 258.25244pt x 112.69643pt.
+Package pdftex.def Info: resources/show_expiry_date.pdf used on input line 79.
+(pdftex.def)             Requested size: 344.3366pt x 150.2619pt.
  [8 <./resources/show_expiry_date.pdf>]
+<resources/add_fine.pdf, id=225, 329.74948pt x 260.8887pt>
+File: resources/add_fine.pdf Graphic file (type pdf)
+
+<use resources/add_fine.pdf>
+Package pdftex.def Info: resources/add_fine.pdf used on input line 87.
+(pdftex.def)             Requested size: 329.74867pt x 260.88806pt.
+ [9 <./resources/add_fine.pdf>]
+<resources/pay_fine.pdf, id=250, 329.69545pt x 342.29869pt>
+File: resources/pay_fine.pdf Graphic file (type pdf)
+
+<use resources/pay_fine.pdf>
+Package pdftex.def Info: resources/pay_fine.pdf used on input line 95.
+(pdftex.def)             Requested size: 329.69464pt x 342.29784pt.
+ [10 <./resources/pay_fine.pdf>]
+<resources/show_fines.pdf, id=275, 329.76048pt x 105.24612pt>
+File: resources/show_fines.pdf Graphic file (type pdf)
+
+<use resources/show_fines.pdf>
+Package pdftex.def Info: resources/show_fines.pdf used on input line 103.
+(pdftex.def)             Requested size: 329.75966pt x 105.24585pt.
+ [11 <./resources/show_fines.pdf>]
 (./Library System Extension.aux) ) 
 Here is how much of TeX's memory you used:
- 2901 strings out of 493054
- 39239 string characters out of 6138326
- 105279 words of memory out of 5000000
- 6382 multiletter control sequences out of 15000+600000
+ 2918 strings out of 495025
+ 39826 string characters out of 6181514
+ 100099 words of memory out of 5000000
+ 6087 multiletter control sequences out of 15000+600000
  9496 words of font info for 36 fonts, out of 8000000 for 9000
- 1141 hyphenation exceptions out of 8191
- 38i,6n,32p,799b,189s stack positions out of 5000i,500n,10000p,200000b,80000s
-<c:/texlive/2015/texmf-dist/fonts/type1/publi
-c/amsfonts/cm/cmbx12.pfb><c:/texlive/2015/texmf-dist/fonts/type1/public/amsfont
-s/cm/cmr10.pfb><c:/texlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12
-.pfb><c:/texlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmr17.pfb>
-Output written on "Library System Extension.pdf" (9 pages, 276734 bytes).
+ 14 hyphenation exceptions out of 8191
+ 38i,6n,32p,931b,189s stack positions out of 5000i,500n,10000p,200000b,80000s
+</usr/share/texlive/texmf-dist/fonts/type1/pu
+blic/amsfonts/cm/cmbx12.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/a
+msfonts/cm/cmr10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts
+/cm/cmr12.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr
+17.pfb>
+Output written on "Library System Extension.pdf" (12 pages, 273541 bytes).
 PDF statistics:
- 240 PDF objects out of 1000 (max. 8388607)
- 163 compressed objects within 2 object streams
+ 310 PDF objects out of 1000 (max. 8388607)
+ 210 compressed objects within 3 object streams
  0 named destinations out of 1000 (max. 500000)
- 41 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 56 words of extra memory for PDF output out of 10000 (max. 10000000)
 

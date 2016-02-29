@@ -70,15 +70,15 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="1.28"
-     inkscape:cx="220.46094"
-     inkscape:cy="804.60152"
+     inkscape:cx="122.02344"
+     inkscape:cy="803.35792"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="true"
-     inkscape:window-width="1280"
-     inkscape:window-height="1002"
-     inkscape:window-x="1912"
-     inkscape:window-y="-8"
+     inkscape:window-width="1366"
+     inkscape:window-height="721"
+     inkscape:window-x="0"
+     inkscape:window-y="26"
      inkscape:window-maximized="1"
      showguides="false">
     <inkscape:grid
@@ -93,7 +93,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -112,27 +112,27 @@
          id="tspan3365"
          x="28.930836"
          y="44.933601"
-         style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:25px;font-family:'Times New Roman';-inkscape-font-specification:'Times New Roman, Italic'">LD!Return(l→ p)</tspan></text>
+         style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:25px;font-family:'Times New Roman';-inkscape-font-specification:'Times New Roman, Italic'">LD!Return(l)</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:25px;line-height:125%;font-family:'Times New Roman';-inkscape-font-specification:'Times New Roman, Italic';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        x="39.618332"
-       y="242.07597"
+       y="254.07597"
        id="text3363-3"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
          id="tspan3365-7"
          x="39.618332"
-         y="242.07597"
+         y="254.07597"
          style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:25px;font-family:'Times New Roman';-inkscape-font-specification:'Times New Roman, Italic'">LS!Return(l[1],l[2])</tspan></text>
     <path
-       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.71749133px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="m 440.13286,52.212406 -410.259022,0 0,200.768284 410.259022,0"
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.64414513px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 440.15882,52.166079 -410.310901,0 0,161.798441 410.310901,0"
        id="path7143"
        inkscape:connector-curvature="0" />
     <path
-       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1.37030542px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="m 439.86888,263.84777 -409.738042,0 0,150.31496 409.738042,0 0,0"
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1.54325581px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 439.80759,223.33785 -409.615665,0 0,190.7098 409.615665,0 0,0"
        id="path7633"
        inkscape:connector-curvature="0" />
     <text

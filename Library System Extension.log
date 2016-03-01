@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.15 (TeX Live 2014) (preloaded format=pdflatex 2015.10.27)  29 FEB 2016 17:59
+This is pdfTeX, Version 3.14159265-2.6-1.40.15 (TeX Live 2014) (preloaded format=pdflatex 2015.10.27)  1 MAR 2016 16:26
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -276,70 +276,70 @@ File: resources/class_invariant.pdf Graphic file (type pdf)
 Package pdftex.def Info: resources/class_invariant.pdf used on input line 23.
 (pdftex.def)             Requested size: 330.35364pt x 389.82771pt.
  [1 <./resources/class_invariant.pdf>]
-<resources/move_to_next_day.pdf, id=48, 329.7589pt x 164.06868pt>
+<resources/move_to_next_day.pdf, id=48, 348.71284pt x 279.9901pt>
 File: resources/move_to_next_day.pdf Graphic file (type pdf)
 
 <use resources/move_to_next_day.pdf>
 Package pdftex.def Info: resources/move_to_next_day.pdf used on input line 31.
-(pdftex.def)             Requested size: 329.75809pt x 164.06827pt.
+(pdftex.def)             Requested size: 348.71199pt x 279.98941pt.
  [2 <./resources/move_to_next_day.pdf>]
-<resources/reserve.pdf, id=73, 356.80331pt x 527.53526pt>
+<resources/reserve.pdf, id=80, 356.80176pt x 567.65407pt>
 File: resources/reserve.pdf Graphic file (type pdf)
 
 <use resources/reserve.pdf>
 Package pdftex.def Info: resources/reserve.pdf used on input line 39.
-(pdftex.def)             Requested size: 267.60182pt x 395.65047pt.
+(pdftex.def)             Requested size: 267.60065pt x 425.7395pt.
  [3 <./resources/reserve.pdf>]
-<resources/loan_copy.pdf, id=98, 380.58801pt x 648.77336pt>
+<resources/loan_copy.pdf, id=105, 380.58409pt x 672.83205pt>
 File: resources/loan_copy.pdf Graphic file (type pdf)
 
 <use resources/loan_copy.pdf>
 Package pdftex.def Info: resources/loan_copy.pdf used on input line 47.
-(pdftex.def)             Requested size: 285.44029pt x 486.57883pt.
+(pdftex.def)             Requested size: 285.43735pt x 504.6228pt.
  [4 <./resources/loan_copy.pdf>]
-<resources/cancel.pdf, id=123, 330.45222pt x 319.09775pt>
+<resources/cancel.pdf, id=130, 330.45222pt x 319.09775pt>
 File: resources/cancel.pdf Graphic file (type pdf)
 
 <use resources/cancel.pdf>
 Package pdftex.def Info: resources/cancel.pdf used on input line 55.
 (pdftex.def)             Requested size: 330.45142pt x 319.09697pt.
  [5 <./resources/cancel.pdf>]
-<resources/return.pdf, id=148, 330.45132pt x 310.94719pt>
+<resources/return.pdf, id=156, 330.45132pt x 310.94719pt>
 File: resources/return.pdf Graphic file (type pdf)
 
 <use resources/return.pdf>
 Package pdftex.def Info: resources/return.pdf used on input line 63.
 (pdftex.def)             Requested size: 330.45052pt x 310.94641pt.
  [6 <./resources/return.pdf>]
-<resources/show_due_date.pdf, id=175, 329.73932pt x 150.26228pt>
+<resources/show_due_date.pdf, id=182, 329.73932pt x 150.26228pt>
 File: resources/show_due_date.pdf Graphic file (type pdf)
 
 <use resources/show_due_date.pdf>
 Package pdftex.def Info: resources/show_due_date.pdf used on input line 71.
 (pdftex.def)             Requested size: 329.7385pt x 150.2619pt.
  [7 <./resources/show_due_date.pdf>]
-<resources/show_expiry_date.pdf, id=200, 344.33743pt x 150.26228pt>
+<resources/show_expiry_date.pdf, id=207, 344.33743pt x 150.26228pt>
 File: resources/show_expiry_date.pdf Graphic file (type pdf)
 
 <use resources/show_expiry_date.pdf>
 Package pdftex.def Info: resources/show_expiry_date.pdf used on input line 79.
 (pdftex.def)             Requested size: 344.3366pt x 150.2619pt.
  [8 <./resources/show_expiry_date.pdf>]
-<resources/add_fine.pdf, id=225, 329.74948pt x 260.8887pt>
+<resources/add_fine.pdf, id=232, 329.74948pt x 260.8887pt>
 File: resources/add_fine.pdf Graphic file (type pdf)
 
 <use resources/add_fine.pdf>
 Package pdftex.def Info: resources/add_fine.pdf used on input line 87.
 (pdftex.def)             Requested size: 329.74867pt x 260.88806pt.
  [9 <./resources/add_fine.pdf>]
-<resources/pay_fine.pdf, id=250, 329.69545pt x 342.29869pt>
+<resources/pay_fine.pdf, id=257, 329.69545pt x 342.29869pt>
 File: resources/pay_fine.pdf Graphic file (type pdf)
 
 <use resources/pay_fine.pdf>
 Package pdftex.def Info: resources/pay_fine.pdf used on input line 95.
 (pdftex.def)             Requested size: 329.69464pt x 342.29784pt.
  [10 <./resources/pay_fine.pdf>]
-<resources/show_fines.pdf, id=275, 329.76048pt x 105.24612pt>
+<resources/show_fines.pdf, id=282, 329.76048pt x 105.24612pt>
 File: resources/show_fines.pdf Graphic file (type pdf)
 
 <use resources/show_fines.pdf>
@@ -360,10 +360,10 @@ blic/amsfonts/cm/cmbx12.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/a
 msfonts/cm/cmr10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts
 /cm/cmr12.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr
 17.pfb>
-Output written on "Library System Extension.pdf" (12 pages, 273541 bytes).
+Output written on "Library System Extension.pdf" (12 pages, 283680 bytes).
 PDF statistics:
- 310 PDF objects out of 1000 (max. 8388607)
- 210 compressed objects within 3 object streams
+ 317 PDF objects out of 1000 (max. 8388607)
+ 215 compressed objects within 3 object streams
  0 named destinations out of 1000 (max. 500000)
  56 words of extra memory for PDF output out of 10000 (max. 10000000)
 

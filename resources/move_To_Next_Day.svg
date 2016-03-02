@@ -26,15 +26,15 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.98994949"
-     inkscape:cx="24.485559"
-     inkscape:cy="954.61328"
+     inkscape:cx="-100.26828"
+     inkscape:cy="792.98887"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="true"
-     inkscape:window-width="1366"
-     inkscape:window-height="721"
-     inkscape:window-x="0"
-     inkscape:window-y="26"
+     inkscape:window-width="1920"
+     inkscape:window-height="1018"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
      inkscape:window-maximized="1">
     <inkscape:grid
        type="xygrid"
@@ -48,7 +48,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -71,13 +71,13 @@
    style="font-size:25px"
    id="tspan7725">(Today, Res, Loan)</tspan></tspan></text>
     <path
-       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.77342635px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="m 450.34641,44.278105 -419.3137,0 0,228.254225 419.3137,0"
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.68278575px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 450.3785,44.220366 -419.37782,0 0,177.862074 419.37782,0"
        id="path7143-2"
        inkscape:connector-curvature="0" />
     <path
        style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1.02322781px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="m 449.19467,283.32027 -418.067655,0 0,82.14324 418.067655,0 0,0"
+       d="m 449.19467,233.32027 -418.067655,0 0,82.14324 418.067655,0 0,0"
        id="path7633-6"
        inkscape:connector-curvature="0" />
     <rect
@@ -86,30 +86,30 @@
        width="109.2692"
        height="60.319107"
        x="49.78635"
-       y="92.721794" />
+       y="94.721786" />
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        x="70.991997"
-       y="88.1334"
+       y="90.133392"
        id="text5629-1"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
          id="tspan5631-0"
          x="70.991997"
-         y="88.1334"
+         y="90.133392"
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:25px;font-family:'Times New Roman';-inkscape-font-specification:'Times New Roman, Bold'">DATE</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;line-height:125%;font-family:'Times New Roman';-inkscape-font-specification:'Times New Roman,  Italic';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        x="73.896355"
-       y="126.47021"
+       y="128.47021"
        id="text5668"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
          id="tspan5670"
          x="73.896355"
-         y="126.47021"
+         y="128.47021"
          style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:17.5px;font-family:'Times New Roman';-inkscape-font-specification:'Times New Roman,  Italic';text-align:start;text-anchor:start"
          dy="0">●T<tspan
    style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15px;font-family:'Times New Roman';-inkscape-font-specification:'Times New Roman,  Italic'"
@@ -118,18 +118,18 @@
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        x="41.571472"
-       y="356.15042"
+       y="306.15042"
        id="text5668-3"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
          id="tspan5670-3"
          x="41.571472"
-         y="356.15042"
+         y="306.15042"
          style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:17.5px;font-family:'Times New Roman';-inkscape-font-specification:'Times New Roman,  Italic';text-align:start;text-anchor:start">Today' = Today + 1</tspan></text>
     <ellipse
        id="path3387"
        cx="305.41068"
-       cy="168.23218"
+       cy="148.23218"
        style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:1.01529598;stroke-opacity:1"
        rx="116.55939"
        ry="56.60022" />
@@ -137,13 +137,13 @@
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:40px;line-height:125%;font-family:'Times New Roman';-inkscape-font-specification:'Times New Roman, Bold';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        x="234.72621"
-       y="106.50178"
+       y="86.501778"
        id="text5629"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
          id="tspan5631"
          x="234.72621"
-         y="106.50178"
+         y="86.501778"
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:22.5px;font-family:'Times New Roman';-inkscape-font-specification:'Times New Roman,  Bold'">Title x Member</tspan></text>
     <ellipse
        style="fill:none;stroke:#000000;stroke-opacity:1"
@@ -155,37 +155,37 @@
        style="fill:none;stroke:#000000;stroke-opacity:1"
        id="path5708-8"
        cx="346.69919"
-       cy="173.05293"
+       cy="153.05293"
        r="20" />
     <text
        xml:space="preserve"
        style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;line-height:125%;font-family:'Times New Roman';-inkscape-font-specification:'Times New Roman, Italic';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        x="247.83105"
-       y="150.19577"
+       y="130.19577"
        id="text5725"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
          id="tspan5727"
          x="247.83105"
-         y="150.19577"
+         y="130.19577"
          style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:17.5px;font-family:'Times New Roman';-inkscape-font-specification:'Times New Roman,  Italic'">Loan</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;line-height:125%;font-family:'Times New Roman';-inkscape-font-specification:'Times New Roman, Italic';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        x="332.80347"
-       y="150.19577"
+       y="130.19577"
        id="text5725-2"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
          id="tspan5727-7"
          x="332.80347"
-         y="150.19577"
+         y="130.19577"
          style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:17.5px;font-family:'Times New Roman';-inkscape-font-specification:'Times New Roman,  Italic'">Res</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        x="42.058796"
-       y="306.91693"
+       y="256.91693"
        id="text5668-3-4"
        sodipodi:linespacing="125%"
        inkscape:transform-center-x="63.639611"
@@ -193,13 +193,13 @@
          sodipodi:role="line"
          id="tspan5670-3-4"
          x="42.058796"
-         y="306.91693"
+         y="256.91693"
          style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:17.5px;font-family:'Times New Roman';-inkscape-font-specification:'Times New Roman,  Italic';text-align:start;text-anchor:start">∀r∈Res((r.ExpiryDate =&gt; Today)→LD!Cancel(r)) </tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        x="42.058796"
-       y="332.9169"
+       y="282.9169"
        id="text5668-3-4-1"
        sodipodi:linespacing="125%"
        inkscape:transform-center-x="63.639611"
@@ -207,45 +207,13 @@
          sodipodi:role="line"
          id="tspan5670-3-4-9"
          x="42.058796"
-         y="332.9169"
-         style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:17.5px;font-family:'Times New Roman';-inkscape-font-specification:'Times New Roman,  Italic';text-align:start;text-anchor:start">∀l∈Loan((l.DueDate =&gt; Today)→LD!Fine(l[2],amount)) </tspan></text>
+         y="282.9169"
+         style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:17.5px;font-family:'Times New Roman';-inkscape-font-specification:'Times New Roman,  Italic';text-align:start;text-anchor:start">∀l∈Loan((l.DueDate =&gt; Today)→LD!Fine(l[2],0.50)) </tspan></text>
     <circle
        style="fill:none;stroke:#000000;stroke-opacity:1"
        id="path5708-8-9"
        cx="266.69919"
-       cy="173.05293"
+       cy="153.05293"
        r="20" />
-    <rect
-       style="fill:none;stroke:#000000;stroke-width:0.31892523;stroke-opacity:1"
-       id="rect5648-3"
-       width="109.2692"
-       height="60.319107"
-       x="49.786354"
-       y="192.7218" />
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       x="44.991997"
-       y="188.13341"
-       id="text5629-1-5"
-       sodipodi:linespacing="125%"><tspan
-         sodipodi:role="line"
-         id="tspan5631-0-2"
-         x="44.991997"
-         y="188.13341"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:25px;font-family:'Times New Roman';-inkscape-font-specification:'Times New Roman, Bold'">DECIMAL</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;line-height:125%;font-family:'Times New Roman';-inkscape-font-specification:'Times New Roman, Italic';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       x="73.896347"
-       y="226.47021"
-       id="text5668-6"
-       sodipodi:linespacing="125%"><tspan
-         sodipodi:role="line"
-         id="tspan5670-1"
-         x="73.896347"
-         y="226.47021"
-         style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:17.5px;font-family:'Times New Roman';-inkscape-font-specification:'Times New Roman,  Italic';text-align:start;text-anchor:start"
-         dy="0">●amount</tspan></text>
   </g>
 </svg>

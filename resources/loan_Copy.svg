@@ -48,15 +48,15 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.9899495"
-     inkscape:cx="13.465531"
-     inkscape:cy="591.85319"
+     inkscape:cx="-236.04215"
+     inkscape:cy="551.44708"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="true"
-     inkscape:window-width="1366"
-     inkscape:window-height="721"
-     inkscape:window-x="0"
-     inkscape:window-y="26"
+     inkscape:window-width="1920"
+     inkscape:window-height="1018"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
      inkscape:window-maximized="1">
     <inkscape:grid
        type="xygrid"
@@ -70,7 +70,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -93,13 +93,13 @@
    style="font-size:25px"
    id="tspan7725">(title, member, dur, today → p)</tspan></tspan></text>
     <path
-       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1.22750711px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="m 470.39835,44.562385 -439.20119,0 0,548.914175 439.20119,0"
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1.28152561px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 470.37921,44.59767 -439.162967,0 0,598.34108 439.162967,0"
        id="path7143-2"
        inkscape:connector-curvature="0" />
     <path
-       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1.82194781px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="m 470.11665,604.36398 -437.712649,0 0,248.74619 437.712649,0 0,0"
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1.56052685px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 470.20934,651.67529 -437.897656,0 0,182.40784 437.897656,0 0,0"
        id="path7633-6"
        inkscape:connector-curvature="0" />
     <rect
@@ -220,18 +220,18 @@
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        x="132.76085"
-       y="288.66974"
+       y="318.66974"
        id="text5668-3-9"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
          id="tspan5670-3-5"
          x="132.76085"
-         y="288.66974"
+         y="318.66974"
          style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:17.5px;font-family:'Times New Roman';-inkscape-font-specification:'Times New Roman,  Italic';text-align:start;text-anchor:start">●l</tspan></text>
     <ellipse
        id="path3387"
        cx="114.94852"
-       cy="274.94202"
+       cy="304.94202"
        style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.76459724;stroke-opacity:1"
        rx="63.146645"
        ry="59.250942" />
@@ -239,48 +239,48 @@
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:40px;line-height:125%;font-family:'Times New Roman';-inkscape-font-specification:'Times New Roman, Bold';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        x="39.911903"
-       y="209.71495"
+       y="239.71495"
        id="text5629"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
          id="tspan5631"
          x="39.911903"
-         y="209.71495"
+         y="239.71495"
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:22.5px;font-family:'Times New Roman';-inkscape-font-specification:'Times New Roman,  Bold'">Title x Member</tspan></text>
     <circle
        style="fill:none;stroke:#000000;stroke-opacity:1"
        id="path5708-8"
        cx="103.83684"
-       cy="283.47934"
+       cy="313.47934"
        r="20" />
     <text
        xml:space="preserve"
        style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;line-height:125%;font-family:'Times New Roman';-inkscape-font-specification:'Times New Roman, Italic';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        x="86.86834"
-       y="259.57141"
+       y="289.57141"
        id="text5725-2"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
          id="tspan5727-7"
          x="86.86834"
-         y="259.57141"
+         y="289.57141"
          style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:17.5px;font-family:'Times New Roman';-inkscape-font-specification:'Times New Roman,  Italic'">Loan</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        x="106.55154"
-       y="798.19775"
+       y="780.19775"
        id="text5668-3-9-0"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
          id="tspan5670-3-5-3"
          x="106.55154"
-         y="798.19775"
+         y="780.19775"
          style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:17.5px;font-family:'Times New Roman';-inkscape-font-specification:'Times New Roman,  Italic';text-align:start;text-anchor:start">l'●</tspan></text>
     <ellipse
        id="path3387-3"
        cx="114.90792"
-       cy="783.45984"
+       cy="765.45984"
        style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.76459724;stroke-opacity:1"
        rx="63.146645"
        ry="59.250942" />
@@ -288,103 +288,103 @@
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:40px;line-height:125%;font-family:'Times New Roman';-inkscape-font-specification:'Times New Roman, Bold';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        x="39.8713"
-       y="718.23279"
+       y="700.23279"
        id="text5629-4"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
          id="tspan5631-6"
          x="39.8713"
-         y="718.23279"
+         y="700.23279"
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:22.5px;font-family:'Times New Roman';-inkscape-font-specification:'Times New Roman,  Bold'">Title x Member</tspan></text>
     <ellipse
        style="fill:none;stroke:#000000;stroke-width:1.34753096;stroke-opacity:1"
        id="path5708-8-8"
        cx="114.90792"
-       cy="796.03778"
+       cy="778.03778"
        rx="30.432837"
        ry="23.866846" />
     <text
        xml:space="preserve"
        style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;line-height:125%;font-family:'Times New Roman';-inkscape-font-specification:'Times New Roman, Italic';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        x="95.919121"
-       y="768.08923"
+       y="750.08923"
        id="text5725-2-0"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
          id="tspan5727-7-6"
          x="95.919121"
-         y="768.08923"
+         y="750.08923"
          style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:17.5px;font-family:'Times New Roman';-inkscape-font-specification:'Times New Roman,  Italic'">Loan</tspan></text>
     <rect
        style="fill:none;stroke:#000000;stroke-width:0.30695397;stroke-opacity:1"
        id="rect5648-1"
        width="101.19995"
        height="60.331078"
-       x="282.30829"
-       y="766.33508" />
+       x="280.30829"
+       y="748.33508" />
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        x="303.5199"
-       y="761.75269"
+       y="743.75269"
        id="text5629-1-6"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
          id="tspan5631-0-58"
          x="303.5199"
-         y="761.75269"
+         y="743.75269"
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:25px;font-family:'Times New Roman';-inkscape-font-specification:'Times New Roman, Bold'">DATE</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;line-height:125%;font-family:'Times New Roman';-inkscape-font-specification:'Times New Roman, Italic';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        x="298.24152"
-       y="802.47351"
+       y="784.47351"
        id="text5668-0-3"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
          id="tspan5670-4-1"
          x="298.24152"
-         y="802.47351"
+         y="784.47351"
          style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:17.5px;font-family:'Times New Roman';-inkscape-font-specification:'Times New Roman,  Italic';text-align:start;text-anchor:start"
          dy="0">●dueDate'</tspan></text>
     <path
        style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.70088524px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#Arrow1Lend-3)"
-       d="m 116.02917,792.38315 c 0,0 91.48573,-45.10449 182.97147,0"
+       d="m 116.02917,774.38315 c 0,0 91.48573,-45.10449 182.97147,0"
        id="path5775-8"
        inkscape:connector-curvature="0" />
     <text
-       y="-289.82684"
-       x="-302.2832"
+       y="322.28906"
+       x="-340.94894"
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        id="text7884-9"
        sodipodi:linespacing="125%"
-       transform="translate(-38.665731,614.1159)"><textPath
+       transform="translate(-40.406102,596.15244)"><textPath
          xlink:href="#path5775-1"
          id="textPath7888-8"><tspan
    style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15px;font-family:'Times New Roman';-inkscape-font-specification:'Times New Roman, Italic'"
    id="tspan7886-2">                       DueDate'</tspan></textPath></text>
     <path
        style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1.47711122px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="m 469.72318,342.37556 -427.850417,0 0,167.26616 427.850417,0 0,0"
+       d="m 469.72318,430.37556 -427.850417,0 0,167.26616 427.850417,0 0,0"
        id="path7633-6-3"
        inkscape:connector-curvature="0" />
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        x="143.06032"
-       y="444.02505"
+       y="532.02502"
        id="text5668-3-9-7"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
          id="tspan5670-3-5-8"
          x="143.06032"
-         y="444.02505"
+         y="532.02502"
          style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:17.5px;font-family:'Times New Roman';-inkscape-font-specification:'Times New Roman,  Italic';text-align:start;text-anchor:start">●l</tspan></text>
     <ellipse
        id="path3387-33"
        cx="116.6617"
-       cy="431.3075"
+       cy="519.3075"
        style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.71755928;stroke-opacity:1"
        rx="55.594021"
        ry="59.27446" />
@@ -392,84 +392,84 @@
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:40px;line-height:125%;font-family:'Times New Roman';-inkscape-font-specification:'Times New Roman, Bold';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        x="49.201225"
-       y="366.08041"
+       y="454.08041"
        id="text5629-2"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
          id="tspan5631-1"
          x="49.201225"
-         y="366.08041"
+         y="454.08041"
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:22.5px;font-family:'Times New Roman';-inkscape-font-specification:'Times New Roman,  Bold'">Title x Member</tspan></text>
     <circle
        style="fill:none;stroke:#000000;stroke-opacity:1"
        id="path5708-8-1"
        cx="113.12616"
-       cy="439.84482"
+       cy="527.84485"
        r="20" />
     <text
        xml:space="preserve"
        style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;line-height:125%;font-family:'Times New Roman';-inkscape-font-specification:'Times New Roman, Italic';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        x="71.914001"
-       y="414.92673"
+       y="502.92673"
        id="text5725-2-3"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
          id="tspan5727-7-0"
          x="71.914001"
-         y="414.92673"
+         y="502.92673"
          style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:17.5px;font-family:'Times New Roman';-inkscape-font-specification:'Times New Roman,  Italic'">Reservation</tspan></text>
     <path
        style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.64524662px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="m 469.90621,522.50572 -428.439018,0 0,31.87397 428.439018,0 0,0"
+       d="m 469.90621,604.50572 -428.439018,0 0,31.87397 428.439018,0 0,0"
        id="path7633-6-3-3"
        inkscape:connector-curvature="0" />
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        x="52.967422"
-       y="543.26208"
+       y="625.26208"
        id="text5668-3-2"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
          id="tspan5670-3-1"
          x="52.967422"
-         y="543.26208"
+         y="625.26208"
          style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:17.5px;font-family:'Times New Roman';-inkscape-font-specification:'Times New Roman,  Italic';text-align:start;text-anchor:start">LD!Cancel(l → p)</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        x="41.084137"
-       y="625.70374"
+       y="387.70374"
        id="text5668-3-4"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
          id="tspan5670-3-51"
          x="41.084137"
-         y="625.70374"
-         style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:17.5px;font-family:'Times New Roman';-inkscape-font-specification:'Times New Roman,  Italic';text-align:start;text-anchor:start">l['1] = t</tspan></text>
+         y="387.70374"
+         style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:17.5px;font-family:'Times New Roman';-inkscape-font-specification:'Times New Roman,  Italic';text-align:start;text-anchor:start">l[1] = t</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        x="41.774521"
-       y="647.92712"
+       y="409.92712"
        id="text5668-3-4-7"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
          id="tspan5670-3-51-9"
          x="41.774521"
-         y="647.92712"
-         style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:17.5px;font-family:'Times New Roman';-inkscape-font-specification:'Times New Roman,  Italic';text-align:start;text-anchor:start">l'[2] = m</tspan></text>
+         y="409.92712"
+         style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:17.5px;font-family:'Times New Roman';-inkscape-font-specification:'Times New Roman,  Italic';text-align:start;text-anchor:start">l[2] = m</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       x="41.353218"
-       y="581.52094"
+       x="38.76947"
+       y="204.5717"
        id="text5668-3-4-9"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
          id="tspan5670-3-51-5"
-         x="41.353218"
-         y="581.52094"
+         x="38.76947"
+         y="204.5717"
          style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:17.5px;font-family:'Times New Roman';-inkscape-font-specification:'Times New Roman,  Italic';text-align:start;text-anchor:start">member.FinesOwed &lt;= 0</tspan></text>
   </g>
 </svg>

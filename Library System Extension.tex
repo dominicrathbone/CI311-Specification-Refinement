@@ -81,7 +81,7 @@ This event takes in a reservation and and outputs the expiry date it has been as
 \newpage
 \section{Fine}
 \subsection{Informal statement}
-This takes in a member and an amount in the form of a decimal number. It then takes this amount and adds it to the current fine amount owed by the member.
+The idea of a fine was introduced into the system as realistically, not all members would return the book by the date it is due and the system needs to be able to cope with this. This event takes in a member and an amount in the form of a decimal number. It then takes this amount and adds it to the current fine amount owed by the member.
 \subsection{Formal statement}
 \begin{center}
 	\includegraphics{add_fine.pdf}
@@ -89,7 +89,7 @@ This takes in a member and an amount in the form of a decimal number. It then ta
 \newpage
 \section{Pay Fine}
 \subsection{Informal statement}
-This allows the member to pay the fine they current owed. It takes in a member and amount. This amount has to be smaller than the or equal to the amount they currently owe, if it's not, the amount is changed to be equal to the current amount they owe. After this, the amount is then subtracted from the current fines.
+This allows the member to pay the fine they currently owed. It takes in a member and amount as parameters. This amount has to be smaller than the or equal to the amount they currently owe, if it's not, the amount is changed to be equal to the current fines. After this, the amount is then subtracted from the current fines.
 \subsection{Formal statement}
 \begin{center}
 	\includegraphics{pay_fine.pdf}
